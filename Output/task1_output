@@ -1,0 +1,23 @@
+Last login: Fri May 17 10:27:30 on ttys000
+Hileo:~ Hileo$ cd /Users/mac/Desktop/Course\ Material/Advanced\ Programming/JavaScript/FinalVersion/Data 
+Hileo:Data Hileo$ node task1.js
+Patterns: [ 'AA', 'CC', 'TT', 'GG' ]
+{ AA: 62, CC: 83, TT: 83, GG: 60 }
+AA 62
+CC 83
+TT 83
+GG 60
+Hileo:Data Hileo$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
